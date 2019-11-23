@@ -6,7 +6,7 @@ __Made_By__r2dr0dn__:
 
 ## Installation : 
 ```
-git clone https://github.com/doophack/FBNow
+git clone https://github.com/r2dr0dn/FBNow
 cd FBNow && chmod +x FBNew.py
 python3 FBNew.py
 ```
